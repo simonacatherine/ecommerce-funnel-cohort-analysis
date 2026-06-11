@@ -1,0 +1,6 @@
+Dataset too large to upload to GitHub.
+
+Source:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store
+
+The analysis was performed on the electronics store ecommerce events dataset (500K+ records used after preprocessing).
